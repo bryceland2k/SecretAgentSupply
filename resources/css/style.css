@@ -1,0 +1,27 @@
+html {
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 960px;
+}
+
+header {
+  background-color: black;
+}
+
+header .container {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  color: white;
+  margin: 0 auto;
+  padding: 0.66rem 0;
+}
+
+.SAS-logo {
+  height: 1.5rem;
+  padding-left: 0.5rem;
+  padding-right: 1rem;
+}
